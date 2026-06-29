@@ -1,6 +1,6 @@
 # HPC Monitoring Dashboard
 
-Real-time terminal dashboard for HPC node monitoring.
+Real-time terminal dashboard for single-node monitoring.
 Built with psutil and rich - no external dependencies beyond pip.
 
 ## What it shows
